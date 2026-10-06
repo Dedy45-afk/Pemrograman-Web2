@@ -17,5 +17,8 @@ switch ($destination) {
     case "Caribbean Islands":
         echo "Bring a swimsuit";
         break;
+    default:
+        echo "Enjoy your trip!";
+        break;
 }
 ?>
