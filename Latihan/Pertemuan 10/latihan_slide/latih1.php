@@ -1,0 +1,1 @@
+<?php echo "Latih 1: Koneksi Berhasil"; ?>

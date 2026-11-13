@@ -1,0 +1,1 @@
+<?php include '../insert3.php'; ?>

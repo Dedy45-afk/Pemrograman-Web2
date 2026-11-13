@@ -1,0 +1,1 @@
+<?php echo "Latih 2: Create DB"; ?>
